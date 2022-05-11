@@ -5,8 +5,10 @@
   (paper "A4")
 
   (title_block
-    (title "TestboardV2.3a")
-    (date "2021-12-11")
+    (title "Open_beehive_scale_board")
+    (date "2022-05-09")
+    (rev "V0.1")
+    (company "Ratamuse")
   )
 
   (lib_symbols
