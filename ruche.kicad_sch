@@ -2471,8 +2471,8 @@
     (pin "7" (uuid b26a44ab-f2c2-47dc-a04f-7e44586ae3c2))
     (pin "8" (uuid 7e065917-b83c-4b17-977d-2c8288debbd8))
     (pin "9" (uuid cffe7e9e-95dd-41eb-8380-e24f3b89863f))
-    (pin "~" (uuid 8222a934-a129-4eb9-9bed-77a9a7a4f27b))
-    (pin "~" (uuid 8222a934-a129-4eb9-9bed-77a9a7a4f27b))
+    (pin "~" (uuid 8222a934-a129-4eb9-9bed-77a9a7a4f27c))
+    (pin "~" (uuid 8222a934-a129-4eb9-9bed-77a9a7a4f27c))
   )
 
   (symbol (lib_id "MAX17048G+:MAX17048G+") (at 46.99 21.59 0) (unit 1)
@@ -3621,6 +3621,12 @@
     (path "/00000000-0000-0000-0000-0000627aa1b6"
       (reference "#PWR0120") (unit 1) (value "GND") (footprint "")
     )
+    (path "/00000000-0000-0000-0000-00006011445d/511f9ead-047e-45b1-8bbe-9bedee093da1"
+      (reference "#PWR0121") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00006011445d/f3aa14c3-6536-4dcc-b7c5-bb97ad7540c8"
+      (reference "#PWR0122") (unit 1) (value "GND") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-0000627f50ae"
       (reference "#PWR0123") (unit 1) (value "GND") (footprint "")
     )
@@ -3887,6 +3893,9 @@
     )
     (path "/d53d6049-f455-43c0-9187-b9604fd72707"
       (reference "J13") (unit 1) (value "Micro_SD_Card") (footprint "Connector_Card:microSD_HC_Hirose_DM3AT-SF-PEJM5")
+    )
+    (path "/00000000-0000-0000-0000-00006011445d/cc7de877-0904-4aa0-b3ee-ec8abd44a2c2"
+      (reference "J14") (unit 1) (value "Conn_01x03") (footprint "Connector_JST:JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical")
     )
     (path "/00000000-0000-0000-0000-00006011445d/79fe9980-abb4-43ab-a32a-a54b421cb267"
       (reference "JP1") (unit 1) (value "SolderJumper_3_Open") (footprint "Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels")
