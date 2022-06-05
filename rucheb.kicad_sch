@@ -1139,7 +1139,7 @@
     (uuid fe6232df-ea20-4bbf-aa1c-f889ae1e2737)
   )
 
-  (text "1/The maximum power point voltage is decided\nby the following equation:\n\nVMPPT=1.205x(1+R23/R27)\n\n2/Charge current setting\n\nThe full-scale charge current, namely the charge current in \nconstant current mode, is decided by the following formula:\n\nICH= 120mV/R28\n\n500mA=0.24 ohm\n250mA=0.48 ohm\n125mA=0.96 ohm"
+  (text "1/The maximum power point voltage is decided\nby the following equation:\n\nVMPPT=1.205x(1+R5/R4)\n\n2/Charge current setting\n\nThe full-scale charge current, namely the charge current in \nconstant current mode, is decided by the following formula:\n\nICH= 120mV/R6\n\n500mA=0.24 ohm\n250mA=0.48 ohm\n125mA=0.96 ohm"
     (at 147.32 133.35 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 6c22fa9b-179c-4f1c-b59c-09e38a79bedd)
